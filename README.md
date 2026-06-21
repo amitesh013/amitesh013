@@ -12,13 +12,10 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science and Data Science Student
+* 🎓 Computer Science - Data Science Student Studying in VIT Chennai
 * 🤖 Interested in Artificial Intelligence and Machine Learning
 * 👁️ Working on Computer Vision and Deep Learning projects
-* 🌐 Exploring Web Development and Full-Stack Applications
-* 🎬 Video Editor skilled in DaVinci Resolve
-* 🏆 Active participant in Hackathons and Technical Events
-
+* 🎬 Video Editor using DaVinci Resolve
 ---
 
 ## 🛠️ Tech Stack
