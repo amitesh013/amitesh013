@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there 👋, I'm Amitesh Ram
 
-<!--
-**amitesh013/amitesh013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Data Science Student at VIT Chennai
 
-Here are some ideas to get you started:
+💻 Passionate about AI, Machine Learning, Computer Vision, and Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎬 Video Editor at Film Society, VIT Chennai
+
+🚀 Always exploring new technologies and building real-world projects
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Computer Science and Data Science Student
+* 🤖 Interested in Artificial Intelligence and Machine Learning
+* 👁️ Working on Computer Vision and Deep Learning projects
+* 🌐 Exploring Web Development and Full-Stack Applications
+* 🎬 Video Editor skilled in DaVinci Resolve
+* 🏆 Active participant in Hackathons and Technical Events
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* Python
+* Java
+* C
+* JavaScript
+* SQL
+
+### AI / Machine Learning
+
+* TensorFlow
+* PyTorch
+* Scikit-Learn
+* OpenCV
+* YOLO
+* XGBoost
+
+### Web Development
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Node.js
+* Express.js
+
+### Databases
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* Google Colab
+* VS Code
+* Jupyter Notebook
+* DaVinci Resolve
