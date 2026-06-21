@@ -5,7 +5,7 @@
 
 * 🎓 Computer Science (Data Science) Student Studying in VIT Chennai
 * 🤖 Interested in Artificial Intelligence and Machine Learning
-* 👁️ Working on Computer Vision and Deep Learning projects
+* 👁️ Working on Computer Vision and Deep Learning projects while exploring LLM and RAG-based applications
 ---
 
 ## 🛠️ Tech Stack
@@ -27,6 +27,12 @@
 * YOLO
 * XGBoost
 
+### Exploring
+
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+
 ### Web Development
 
 * HTML
@@ -39,6 +45,7 @@
 ### Databases
 
 * MySQL
+* OracleSQL
 
 ### Tools
 
@@ -47,4 +54,3 @@
 * Google Colab
 * VS Code
 * Jupyter Notebook
-* DaVinci Resolve
