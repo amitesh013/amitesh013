@@ -1,10 +1,9 @@
 # Hi there 👋, I'm Amitesh Ram
 
----
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science - Data Science Student Studying in VIT Chennai
+* 🎓 Computer Science (Data Science) Student Studying in VIT Chennai
 * 🤖 Interested in Artificial Intelligence and Machine Learning
 * 👁️ Working on Computer Vision and Deep Learning projects
 * 🎬 Video Editor at Film Society, VIT Chennai using DaVinci Resolve
