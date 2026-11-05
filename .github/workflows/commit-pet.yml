@@ -1,0 +1,21 @@
+name: Commit Pet
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+  models: read
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # Points at YOUR fork (with the custom "pirate" species), not yukurash/commit-pet
+      - uses: amitesh013/commit-pet@main
+        with:
+          species: pirate         # the original pirate-slime design
+          name: Amitesh
+          output: commit-pet.svg
+          theme: en                # en | jp
