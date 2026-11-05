@@ -111,3 +111,5 @@ A koi that redraws itself every night from the day's GitHub activity — its col
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:C9A8FF,100:FFB7C5&height=120&section=footer" width="100%"/>
 
 ![Commit Pet](commit-pet.svg)
+
+![Commit Pet](commit-pet.svg)
